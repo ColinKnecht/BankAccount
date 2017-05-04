@@ -1,0 +1,6 @@
+C:\Users\lori\documents\visual studio 2015\Projects\Program0-Knecht Solution\Program0-Knecht\bin\Debug\Program0-Knecht.exe.config
+C:\Users\lori\documents\visual studio 2015\Projects\Program0-Knecht Solution\Program0-Knecht\bin\Debug\Program0-Knecht.exe
+C:\Users\lori\documents\visual studio 2015\Projects\Program0-Knecht Solution\Program0-Knecht\bin\Debug\Program0-Knecht.pdb
+C:\Users\lori\documents\visual studio 2015\Projects\Program0-Knecht Solution\Program0-Knecht\obj\Debug\Program0-Knecht.exe
+C:\Users\lori\documents\visual studio 2015\Projects\Program0-Knecht Solution\Program0-Knecht\obj\Debug\Program0-Knecht.pdb
+C:\Users\lori\documents\visual studio 2015\Projects\Program0-Knecht Solution\Program0-Knecht\obj\Debug\Program0-Knecht.csprojResolveAssemblyReference.cache
